@@ -7,7 +7,7 @@
         "patch": 1
     },
     
-    "logoURI": "https://s3.ap-southeast-2.amazonaws.com/static.audd.digital/AUDD-Logo-Blue-512x512px.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/33263/standard/AUDD-Logo-Blue_512.png?1701319895",
     "tokens": [
         {
             "chainId": 1,
@@ -15,7 +15,7 @@
             "name": "Australian Digital Dollar",
             "symbol": "AUDD",
             "decimals": 6, 
-            "logoURI": "https://s3.ap-southeast-2.amazonaws.com/static.audd.digital/AUDD-Logo-Blue-512x512px.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/33263/standard/AUDD-Logo-Blue_512.png?1701319895"
         },
  {
             "chainId": 1,
