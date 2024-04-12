@@ -1,0 +1,21 @@
+{
+    "name": "CowswapAUDD",
+    "timestamp": "2024-02-27T16:30:00Z",
+    "version": { #Important to keep track of the list versioning in the case that you want to perform updates/upgrades to such list
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    },
+    
+    "logoURI": "https://s3.ap-southeast-2.amazonaws.com/static.audd.digital/AUDD-Logo-Blue-512x512px.png",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x4cce605ed955295432958d8951d0b176c10720d5",
+            "name": "Australian Digital Dollar",
+            "symbol": "AUDD",
+            "decimals": 6, 
+            "logoURI": "https://s3.ap-southeast-2.amazonaws.com/static.audd.digital/AUDD-Logo-Blue-512x512px.png"
+        },
+               ]
+}
